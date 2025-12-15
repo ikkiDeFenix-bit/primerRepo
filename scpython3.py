@@ -73,12 +73,17 @@ for elemento in listaEjemplo:
     print("El numero es :")
     print(elemento)
 
-print("Nuevo cambio")
+
 print("Cambio master")
 print("Cambio master")
 
-print("Cambio master")
 
-print("Cambio master")
 
-print("Este es un nuevo cambio desarrollado en nube")
+print("Cambio 2")
+print("Cambio 3dev")
+
+
+print("Este es un nuevo cambio desarrollado en nube dev")
+
+
+print("Nuevo cambio desde la rama dev")
