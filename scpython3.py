@@ -67,3 +67,8 @@ while True:
     else:
         print("Opcion no válida, intente otra vez")
 print("Se ha finalizado el programa guardando el carrito")
+print("Hola, nuevo commit")
+listaEjemplo = [1,2,3,4,5]
+for elemento in listaEjemplo:
+    print("El numero es :")
+    print(elemento)
