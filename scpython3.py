@@ -74,3 +74,5 @@ for elemento in listaEjemplo:
     print(elemento)
 
 print("Nuevo cambio")
+print("Cambio 2")
+print("Cambio 3")
